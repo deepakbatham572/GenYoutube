@@ -1,0 +1,7 @@
+langchain
+streamlit
+langchain_community
+huggingface_hub
+tiktoken
+python-dotenv
+duckduckgo-search
